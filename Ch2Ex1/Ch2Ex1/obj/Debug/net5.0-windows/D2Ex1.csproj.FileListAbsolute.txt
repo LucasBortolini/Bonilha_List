@@ -1,0 +1,54 @@
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.csprojAssemblyReference.cache
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.Form1.resources
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.csproj.GenerateResource.cache
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.AssemblyInfoInputs.cache
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.AssemblyInfo.cs
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.exe
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.deps.json
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.runtimeconfig.json
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.runtimeconfig.dev.json
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.dll
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\ref\D2Ex1.dll
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\bin\Debug\net5.0-windows\D2Ex1.pdb
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.dll
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\ref\D2Ex1.dll
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.pdb
+C:\Users\Cinti\source\repos\D2Ex1\D2Ex1\obj\Debug\net5.0-windows\D2Ex1.genruntimeconfig.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.exe
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.deps.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.runtimeconfig.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.runtimeconfig.dev.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\ref\D2EX1.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.pdb
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csprojAssemblyReference.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.Form1.resources
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csproj.GenerateResource.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.AssemblyInfoInputs.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.AssemblyInfo.cs
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csproj.CoreCompileInputs.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\ref\D2EX1.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.pdb
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.exe
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.deps.json
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.dll
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\ref\D2EX1.dll
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\bin\Debug\net5.0-windows\D2EX1.pdb
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.Form1.resources
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.dll
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\ref\D2EX1.dll
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.pdb
+C:\Users\Administrator\Desktop\Exercicios\D2Ex1\D2EX1\obj\Debug\net5.0-windows\D2EX1.genruntimeconfig.cache

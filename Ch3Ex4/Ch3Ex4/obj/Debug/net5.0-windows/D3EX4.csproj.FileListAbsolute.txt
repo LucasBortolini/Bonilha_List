@@ -1,0 +1,36 @@
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.exe
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.deps.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.runtimeconfig.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.runtimeconfig.dev.json
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\ref\D3EX4.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.pdb
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csprojAssemblyReference.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.Form1.resources
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csproj.GenerateResource.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.AssemblyInfoInputs.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.AssemblyInfo.cs
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csproj.CoreCompileInputs.cache
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\ref\D3EX4.dll
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.pdb
+C:\Users\Cinti\OneDrive\Área de Trabalho\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.exe
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.deps.json
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.runtimeconfig.json
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.dll
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\ref\D3EX4.dll
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\bin\Debug\net5.0-windows\D3EX4.pdb
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.Pascal.resources
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.dll
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\ref\D3EX4.dll
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.pdb
+C:\Users\Administrator\Desktop\Exercicios\D3EX4\D3EX4\obj\Debug\net5.0-windows\D3EX4.genruntimeconfig.cache
